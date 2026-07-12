@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Legends",
+  "description": "The official landing page for Flappy Legends, a premium flappy-style pro mobile arcade game featuring squad survival, dynamic weather, mythic worlds, and epic boss fights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
