@@ -1,6 +1,8 @@
 google.com, pub-7590043194932862, DIRECT, f08c47fec0942fa0
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
+openx.com, 565175463, RESELLER, 6a698e2ec38604c6
 unity.com, 127985780, DIRECT, 96cabb5fbdde37a7
 ushareit.com, lcb555b3bc8667a09a, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
